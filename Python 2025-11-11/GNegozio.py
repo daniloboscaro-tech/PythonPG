@@ -1,3 +1,5 @@
+#aggiunta commento per modifica versione da 1 a 1.1
+
 import os
 import readchar
 
